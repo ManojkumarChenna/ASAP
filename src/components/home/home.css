@@ -1,0 +1,9 @@
+.home{
+    position: relative;
+    top:60px;
+    background-color: rgb(211, 214, 217);
+    
+    border-bottom: 2px solid rgb(197, 189, 189);
+    margin-top: 9px;
+    width: 100%; 
+}
